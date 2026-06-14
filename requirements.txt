@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+seaborn
+tqdm
+joblib
+ipykernel
+notebook
+lxml

@@ -1,0 +1,16 @@
+name: world_cup
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.13
+  - numpy
+  - pandas
+  - matplotlib
+  - tqdm
+  - seaborn
+  - joblib
+  - ipykernel
+  - notebook
+  - lxml
+prefix: C:\Users\felix\.conda\envs\world_cup
