@@ -25,12 +25,13 @@ def read_teams(file):
 
     for row in csv.DictReader(open(file, encoding="latin-1")):
         rating = float(row["rating"])
+        points = int(float(row.get("points", 0) or 0))
         teams[row["team"]] = {
             "name": row["team"],
             "group": row.get("group", ""),
             "rating": rating,
             "start_rating": rating,
-            "points": 0,
+            "points": points,
         }
 
     return teams

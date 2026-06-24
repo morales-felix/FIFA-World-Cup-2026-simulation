@@ -1,0 +1,49 @@
+group,team,rating,points
+A,Mexico,1881,3
+A,South Korea,1786,3
+A,Czech Republic,1712,0
+A,South Africa,1511,0
+B,Switzerland,1865,1
+B,Canada,1767,1
+B,Bosnia and Herzegovina,1616,1
+B,Qatar,1447,1
+C,Brazil,1978,1
+C,Morocco,1840,1
+C,Scotland,1794,3
+C,Haiti,1536,0
+D,Turkey,1839,0
+D,Paraguay,1780,0
+D,Australia,1839,3
+D,United States,1780,3
+E,Ecuador,1890,0
+E,Germany,1939,3
+E,Ivory Coast,1743,3
+E,Curacao,1427,0
+F,Netherlands,1944,1
+F,Japan,1910,1
+F,Sweden,1755,3
+F,Tunisia,1585,0
+G,Belgium,1879,1
+G,Iran,1756,1
+G,Egypt,1711,1
+G,New Zealand,1578,1
+H,Spain,2129,1
+H,Uruguay,1870,1
+H,Cape Verde,1606,1
+H,Saudi Arabia,1598,1
+I,France,2084,3
+I,Norway,1929,3
+I,Senegal,1839,0
+I,Iraq,1592,0
+J,Argentina,2128,3
+J,Austria,1857,3
+J,Algeria,1759,3
+J,Jordan,1653,0
+K,Portugal,1967,1
+K,Colombia,1998,3
+K,Uzbekistan,1698,0
+K,DR Congo,1674,1
+L,England,2055,3
+L,Croatia,1881,0
+L,Panama,1683,0
+L,Ghana,1557,3
