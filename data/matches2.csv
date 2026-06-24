@@ -1,0 +1,73 @@
+group,date,home_team,away_team,elo_prob_home,result_home
+A,1,Mexico,South Africa,,1
+A,2,South Korea,Czech Republic,,1
+B,3,Canada,Bosnia and Herzegovina,,0.5
+D,4,United States,Paraguay,,1
+C,5,Haiti,Scotland,,0.5
+D,6,Australia,Turkey,,1
+C,7,Brazil,Morocco,,0.5
+B,8,Qatar,Switzerland,,0.5
+E,9,Ivory Coast,Ecuador,,1
+E,10,Germany,Curacao,,1
+F,11,Netherlands,Japan,,0.5
+F,12,Sweden,Tunisia,,1
+H,13,Saudi Arabia,Uruguay,,0.5
+H,14,Spain,Cape Verde,,0.5
+G,15,Iran,New Zealand,,0.5
+G,16,Belgium,Egypt,,0.5
+I,17,France,Senegal,,1
+I,18,Iraq,Norway,,0
+J,19,Argentina,Algeria,,1
+J,20,Austria,Jordan,,1
+L,21,Ghana,Panama,,1
+L,22,England,Croatia,,1
+K,23,Portugal,DR Congo,,0.5
+K,24,Uzbekistan,Colombia,,0
+A,25,Czech Republic,South Africa,,0.5
+B,26,Switzerland,Bosnia and Herzegovina,,1
+B,27,Canada,Qatar,,1
+A,28,Mexico,South Korea,,1
+C,29,Brazil,Haiti,,1
+C,30,Scotland,Morocco,,0
+D,31,Turkey,Paraguay,,0
+D,32,United States,Australia,,1
+E,33,Germany,Ivory Coast,,1
+E,34,Ecuador,Curacao,,0.5
+F,35,Netherlands,Sweden,,1
+F,36,Tunisia,Japan,,0
+H,37,Uruguay,Cape Verde,,0.5
+H,38,Spain,Saudi Arabia,,1
+G,39,Belgium,Iran,,0.5
+G,40,New Zealand,Egypt,,0
+I,41,Norway,Senegal,,1
+I,42,France,Iraq,,1
+J,43,Argentina,Austria,,1
+J,44,Jordan,Algeria,,0
+L,45,England,Ghana,,0.5
+L,46,Panama,Croatia,,0
+K,47,Portugal,Uzbekistan,,1
+K,48,Colombia,DR Congo,,1
+C,49,Scotland,Brazil,,
+C,50,Morocco,Haiti,,
+B,51,Switzerland,Canada,,
+B,52,Bosnia and Herzegovina,Qatar,,
+A,53,Czech Republic,Mexico,,
+A,54,South Africa,South Korea,,
+E,55,Curacao,Ivory Coast,,
+E,56,Ecuador,Germany,,
+F,57,Japan,Sweden,,
+F,58,Tunisia,Netherlands,,
+D,59,Turkey,United States,,
+D,60,Paraguay,Australia,,
+I,61,Norway,France,,
+I,62,Senegal,Iraq,,
+G,63,Egypt,Iran,,
+G,64,New Zealand,Belgium,,
+H,65,Cape Verde,Saudi Arabia,,
+H,66,Uruguay,Spain,,
+L,67,Panama,England,,
+L,68,Croatia,Ghana,,
+J,69,Algeria,Austria,,
+J,70,Jordan,Argentina,,
+K,71,Colombia,Portugal,,
+K,72,DR Congo,Uzbekistan,,

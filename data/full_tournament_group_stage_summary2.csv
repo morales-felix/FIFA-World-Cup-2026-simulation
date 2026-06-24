@@ -1,0 +1,49 @@
+group,team,avg_points,points_2nd_pct,points_97th_pct
+A,Czech Republic,2,1,4
+A,Mexico,7,6,9
+A,South Africa,2,1,4
+A,South Korea,4,3,6
+B,Bosnia and Herzegovina,3,1,4
+B,Canada,5,4,7
+B,Qatar,2,1,4
+B,Switzerland,6,4,7
+C,Brazil,5,4,7
+C,Haiti,0,0,3
+C,Morocco,7,4,7
+C,Scotland,4,3,6
+D,Australia,4,3,6
+D,Paraguay,4,3,6
+D,Turkey,1,0,3
+D,United States,7,6,9
+E,Curacao,2,1,4
+E,Ecuador,2,1,4
+E,Germany,7,6,9
+E,Ivory Coast,4,3,6
+F,Japan,6,4,7
+F,Netherlands,5,4,7
+F,Sweden,4,3,6
+F,Tunisia,1,0,3
+G,Belgium,3,2,5
+G,Egypt,5,4,7
+G,Iran,3,2,5
+G,New Zealand,2,1,4
+H,Cape Verde,3,2,5
+H,Saudi Arabia,2,1,4
+H,Spain,5,4,7
+H,Uruguay,3,2,5
+I,France,7,6,9
+I,Iraq,0,0,3
+I,Norway,7,6,9
+I,Senegal,2,0,3
+J,Algeria,4,3,6
+J,Argentina,7,6,9
+J,Austria,4,3,6
+J,Jordan,1,0,3
+K,Colombia,7,6,9
+K,DR Congo,2,1,4
+K,Portugal,5,4,7
+K,Uzbekistan,1,0,3
+L,Croatia,6,3,6
+L,England,5,4,7
+L,Ghana,4,4,7
+L,Panama,1,0,3
